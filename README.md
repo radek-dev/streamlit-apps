@@ -2,9 +2,11 @@
 
 Public [Streamlit](https://streamlit.io) apps, showcased in the [Notebook Gallery](https://radek-dev.github.io/notebook-gallery/).
 
-| App | Description |
-| :-- | :-- |
-| `app.py` | Customer segmentation with K-means on synthetic data |
+| App | Description | Live |
+| :-- | :-- | :-- |
+| `app.py` | Customer segmentation with K-means on synthetic data | [customer-segments-demo.streamlit.app](https://customer-segments-demo.streamlit.app/) |
+
+Related: [notebook-gallery](https://github.com/radek-dev/notebook-gallery) · [marimo-notebooks](https://github.com/radek-dev/marimo-notebooks) · [quarto-notebooks](https://github.com/radek-dev/quarto-notebooks)
 
 ## Run locally
 
